@@ -1,6 +1,7 @@
 # Aisha Riley
-
-Owensboro, KY                      
+# 2224 Carter Road Apt B2
+# Owensboro, KY  42301
+                      
 270-925-3432<br>
 aishariley789@yahoo.com<br>
 https://www.github.com/aishariley<br>
@@ -31,12 +32,41 @@ Owensboro Community and Technical College<br>
 
 - Build Web Pages using HTML, CSS, Mongoose, Node.js, JavaScript in school
 - Familiar with using C++ and Python
-- Taken data structures and algorithms in college
+- Taken data structures and algorithms using SQL
 - Three years help desk experience
+- One year Active Directory experience
+- Basic troubleshooting skills (hardware and software)
+- Processing ticketing software using ServicePro and ServiceNow
   
 <br>
 
 # Work Experience
+
+**Owensboro Health/Optum**<br>
+*January 2023 - Present*<br>
+**Tech Support Specialist**<br>
+Process tickets through ServicePro and ServiceNow
+Basic troubleshooting of computer hardware and software
+Reset passwords through Active Directory, Omnicell, NetHealth, Healthstreams
+Assist with MyChart patients verifying or reset their password and walking them through accessing their MyChart account
+Remoting into computers using Bomgard to troubleshoot issues
+Download software using Software Center
+<br>
+<br>
+
+**MPD/Manpower**<br>
+*July 2022 - January 2023*<br>
+**Assembly Technician**<br>
+Assemble the breathalyzer machines for police agencies and other goverment companies
+<br>
+<br>
+
+**Owensboro Community and Technical College - Owensboro, KY**<br>
+*August 2021 - July 2022*<br>
+**Student Worker**<br>
+Worked in the library assisting students with checking out books and other references as well as using the computer for test and research materials
+<br>
+<br>
 
 **Department of Homeland Security – Frankfort, KY**<br> 
 *August 2021 – May 2022*<br>
